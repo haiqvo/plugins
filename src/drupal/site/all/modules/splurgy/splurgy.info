@@ -1,4 +1,4 @@
-name = Splurgy Social Promotions
+name = Splurgy Social Promotion
 description = Embed your Splurgy-based social promotions on your Drupal site!
 package = Splurgy
 core = 7.x
